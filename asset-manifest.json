@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mapa-vegano/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/mapa-vegano/static/js/main.0e4fabb1.chunk.js",
+    "main.js.map": "/mapa-vegano/static/js/main.0e4fabb1.chunk.js.map",
+    "runtime-main.js": "/mapa-vegano/static/js/runtime-main.490436d8.js",
+    "runtime-main.js.map": "/mapa-vegano/static/js/runtime-main.490436d8.js.map",
+    "static/css/2.8a63179d.chunk.css": "/mapa-vegano/static/css/2.8a63179d.chunk.css",
+    "static/js/2.f562e433.chunk.js": "/mapa-vegano/static/js/2.f562e433.chunk.js",
+    "static/js/2.f562e433.chunk.js.map": "/mapa-vegano/static/js/2.f562e433.chunk.js.map",
+    "static/js/3.f45f3202.chunk.js": "/mapa-vegano/static/js/3.f45f3202.chunk.js",
+    "static/js/3.f45f3202.chunk.js.map": "/mapa-vegano/static/js/3.f45f3202.chunk.js.map",
+    "index.html": "/mapa-vegano/index.html",
+    "static/css/2.8a63179d.chunk.css.map": "/mapa-vegano/static/css/2.8a63179d.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/mapa-vegano/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.f562e433.chunk.js.LICENSE.txt": "/mapa-vegano/static/js/2.f562e433.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.490436d8.js",
+    "static/css/2.8a63179d.chunk.css",
+    "static/js/2.f562e433.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.0e4fabb1.chunk.js"
+  ]
+}
